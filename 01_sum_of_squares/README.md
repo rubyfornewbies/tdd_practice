@@ -25,5 +25,3 @@
 If you want to see how we got here checkout the video below
 
 [01 Project Euler #6 ](http://youtu.be/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
-
-![youtube](https://www.youtube.com/watch?v=P-SmTfaOEcI&index=1&list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)

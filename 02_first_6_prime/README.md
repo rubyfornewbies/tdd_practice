@@ -8,5 +8,3 @@
 If you want to see how we got here checkout the video below
 
 [01 Project Euler #7 ](http://youtu.be/lmguFEMt510?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
-
-![youtube](https://www.youtube.com/watch?v=lmguFEMt510&index=2&list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
