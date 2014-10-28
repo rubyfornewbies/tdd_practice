@@ -24,6 +24,6 @@
 
 If you want to see how we got here checkout the video below
 
-![01 Project Euler #6 ](http://youtu.be/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
+[01 Project Euler #6 ](http://youtu.be/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363" frameborder="0" allowfullscreen></iframe>
+![youtube](https://www.youtube.com/watch?v=P-SmTfaOEcI&index=1&list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
