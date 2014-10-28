@@ -19,3 +19,11 @@
 - define an array of 1..100
 - create a loop that sum each num and square it
 - create a loop that square each number and sum it
+
+# Video
+
+If you want to see how we got here checkout the video below
+
+![01 Project Euler #6 ](http://youtu.be/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/P-SmTfaOEcI?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363" frameborder="0" allowfullscreen></iframe>
