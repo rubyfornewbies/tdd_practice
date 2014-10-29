@@ -1,7 +1,7 @@
 # Rules for TDD Practice Session
 1. 30mins to complete problem
-2. Must start with a test first before any writing code
-3. Whatever can be completed on your own time and submit as a pull request
+2. Code must be prefixed with test (TDD style)
+3. Goal is writing test not solving the problem
 
 # Recording Etiquette
 1. Be polite and try not to overpower one another
