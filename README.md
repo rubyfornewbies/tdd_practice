@@ -1,7 +1,12 @@
-# Rules for Practice Practice Session
+# Rules for TDD Practice Session
 1. 30mins to complete problem
-2. Start with a test
-3. Whatever is not complete will be worked can be completed on your own.
+2. Must start with a test first before any writing code
+3. Whatever can be completed on your own time and submit as a pull request
+
+# Recording Etiquette
+1. Be polite and do not overpower one another
+2. If you are on the hangout, turn off your camera
+3. If your have a lot of room noise, please mute your mic when not talking
 
 Please be respecful to others; All ideas are valid
 
