@@ -1,3 +1,5 @@
+![](http://i.imgur.com/VtBGM2o.jpg)
+
 # Rules for TDD Practice Session
 1. 30mins to complete problem
 2. Code must be prefixed with test (TDD style)
