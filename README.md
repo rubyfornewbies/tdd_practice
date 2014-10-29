@@ -9,6 +9,12 @@
 3. If your have a lot of room noise, please mute your mic when not talking
 4. Check the chat box for questions or comments those outside the hangout
 
+# Setup
+1. `bundle` in the command line.
+2. Write test in `whatever_test.rb`
+3. run `ruby whatever_test.rb`
+4. Write code in `whatever.rb` to pass written test
+
 Please be respecful to others; All ideas are valid
 
 All progress and solutions are on posted on the [progress](https://github.com/rubyfornewbies/tdd_practice/tree/progress) branch of this repo.
