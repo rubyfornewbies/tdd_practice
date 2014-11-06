@@ -19,3 +19,7 @@ make_change(43)
 make_change(91)
 # => {:H=>1, :Q=>1, :D=>1, :N=>1, :P=>1}
 ```
+
+### NOTE
+
+Please note we are using Minitest's [expectation syntax](http://blog.teamtreehouse.com/short-introduction-minitest) this week.
