@@ -7,16 +7,16 @@ The argument passed in will be an integer representing the value in cents. The r
 For example:
 
 ```ruby
-make_change(0)
+Coins.make_change(0)
 # => {}
 
-make_change(1)
+Coins.make_change(1)
 # => {:P=>1}
 
-make_change(43)
+Coins.make_change(43)
 # => {:Q=>1, :D=>1, :N=>1, :P=>3}
 
-make_change(91)
+Coins.make_change(91)
 # => {:H=>1, :Q=>1, :D=>1, :N=>1, :P=>1}
 ```
 
