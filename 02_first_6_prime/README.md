@@ -2,3 +2,9 @@
  What is the 10 001st prime number?
 
 [Prime Library](http://ruby-doc.org/stdlib-1.9.3//libdoc/prime/rdoc/Prime.html)
+
+# Video
+
+If you want to see how we got here checkout the video below
+
+[01 Project Euler #7 ](http://youtu.be/lmguFEMt510?list=PLk2OOH9M7Vujj0_eIqlkQ0ALbL_rhh363)
