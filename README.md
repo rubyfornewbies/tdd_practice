@@ -20,3 +20,6 @@
 Please be respecful to others; All ideas are valid
 
 All progress and solutions are on posted on the [progress](https://github.com/rubyfornewbies/tdd_practice/tree/progress) branch of this repo.
+
+Live Event: join here for the interactive [Nitrous Box](https://www.nitrous.io/app#/boxes/158740/ide)
+*note I will need your username to grant you access.
